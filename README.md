@@ -99,7 +99,7 @@ Parametros de salida (2): **title : str / duracion_int : int / duracion_type : s
 
 Nombre: **get_rating_count**
 
-Parametros de entrada (2): **rating : str**
+Parametros de entrada (1): **rating : str**
 
 Parametros de salida (2): **rating : str / cantidad : int**
 
