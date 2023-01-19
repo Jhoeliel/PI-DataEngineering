@@ -75,7 +75,7 @@ Parametros de salida (2): **plataforma : str / count : int**
 
 Nombre: **get_score_count**
 
-Parametros de entrada (2): **plataforma : str / score : int / year : int**
+Parametros de entrada (3): **plataforma : str / score : int / year : int**
 
 Parametros de salida (2): **plataforma : str / count : int**
 
@@ -83,7 +83,7 @@ Parametros de salida (2): **plataforma : str / count : int**
 
 Nombre: **get_second_score**
 
-Parametros de entrada (2): **plataforma : str**
+Parametros de entrada (1): **plataforma : str**
 
 Parametros de salida (2): **title : str / score : int**
 
@@ -91,9 +91,9 @@ Parametros de salida (2): **title : str / score : int**
 
 Nombre: **get_longest**
 
-Parametros de entrada (2): **plataforma : str / duracion : str / year : int**
+Parametros de entrada (3): **plataforma : str / duracion : str / year : int**
 
-Parametros de salida (2): **title : str / duracion_int : int / duracion_type : str**
+Parametros de salida (3): **title : str / duracion_int : int / duracion_type : str**
 
 **`API 5 - get_rating_count():`** Película que más duró según año, plataforma y tipo de duración.
 
@@ -106,4 +106,3 @@ Parametros de salida (2): **rating : str / cantidad : int**
 ## **Información complementaria**
 
 **Test site: https://pi-jdps.deta.dev/docs**
-
