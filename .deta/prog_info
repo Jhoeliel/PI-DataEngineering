@@ -1,1 +1,0 @@
-{"id":"6e261c4f-1dbc-4ee9-b9bb-be3d2fb97cf4","space":48622,"runtime":"python3.9","name":"PI01-Data-Engineering-main","path":"5jmrdg","project":"e0dholjb","account":"144798365827","region":"sa-east-1","deps":["flask","deta","python-multipart"],"envs":null,"public":true,"log_level":"debug","cron":""}
