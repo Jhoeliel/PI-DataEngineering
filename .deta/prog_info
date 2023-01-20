@@ -1,0 +1,1 @@
+{"id":"b982d874-f499-4a19-8cb1-179f883d3847","space":48622,"runtime":"python3.9","name":"microPI","path":"xhokyx","project":"e0dholjb","account":"144798365827","region":"sa-east-1","deps":["fastapi","pandas"],"envs":null,"public":true,"log_level":"debug","cron":""}
